@@ -1,0 +1,87 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Smartphone Motorola Moto E13 64GB",
+      "precio": 5633,
+      "foto": "/img/Motorola-E13.webp"
+    },
+    {
+      "id": 2,
+      "nombre": "Smartphone Motorola Moto G42 128GB",
+      "precio": 1234,
+      "foto": "/img/Motorola-G42.webp"
+    },
+    {
+      "id": 3,
+      "nombre": "Smartphone Motorola Moto Edge 40 5G 256GB",
+      "precio": 2768,
+      "foto": "/img/Motorola-Edge40.webp"
+    },
+    {
+      "id": 4,
+      "nombre": "Smartphone LG K22+ LMK200BAW 64GB",
+      "precio": 1133,
+      "foto": "/img/LG-K22plus.webp"
+    },
+    {
+      "id": 5,
+      "nombre": "Smartphone LG K52 64GB",
+      "precio": 231,
+      "foto": "/img/LG-K52.webp"
+    },
+    {
+      "id": 6,
+      "nombre": "Smartphone LG K62+ 128GB",
+      "precio": 4231,
+      "foto": "/img/LG-K62plus.webp"
+    },
+    {
+      "id": 7,
+      "nombre": "Celular Asus ZB631 64gb",
+      "precio": 2233,
+      "foto": "/img/Asus-ZB631.webp"
+    },
+    {
+      "id": 8,
+      "nombre": "Smartphone Asus Zenfone 8 5G 128GB",
+      "precio": 4019,
+      "foto": "/img/Asus-Zenfone.webp"
+    },
+    {
+      "id": 9,
+      "nombre": "Asus ZenFone 3 Max ZC520TL Dual SIM 32 GB",
+      "precio": 2413,
+      "foto": "/img/Asus-Zenfone3.png"
+    }
+  ],
+  "carrito": [
+    [],
+    [],
+    [
+      {
+        "id": 2,
+        "nombre": "Smartphone Motorola Moto G42 128GB",
+        "precio": 1234,
+        "foto": "/img/Motorola-G42.webp",
+        "cantidad": "2"
+      },
+      {
+        "id": 3,
+        "nombre": "Smartphone Motorola Moto Edge 40 5G 256GB",
+        "precio": 2768,
+        "foto": "/img/Motorola-Edge40.webp",
+        "cantidad": 1
+      }
+    ],
+    [
+      {
+        "id": 3,
+        "nombre": "Smartphone Motorola Moto Edge 40 5G 256GB",
+        "precio": 2768,
+        "foto": "/img/Motorola-Edge40.webp",
+        "cantidad": 1
+      }
+    ]
+  ]
+}
